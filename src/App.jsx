@@ -9,8 +9,7 @@ function App() {
       <main>
         <Coreconsept />
         <Exemples />
-        <p>zouhir</p>
-        <button>clikme</button>
+        
       </main>
     </div>
   );
